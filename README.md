@@ -1,6 +1,6 @@
 # snowball-susceptibility
 
-[DOI badge]
+[![DOI](https://zenodo.org/badge/1427752136.svg)](https://doi.org/10.5281/zenodo.23522467)
 
 This repository contains the code and data used to generate the figures for **"Relative Impact of Solar Luminosity vs. Paleogeography on Sensitivity to Snowball Transitions Over Geologic Time."** It combines PlaSim GCM simulations of modern, Carboniferous, and Neoproterozoic paleogeographies with a box model of the carbon cycle. As a matter of courtesy, we request that people using this code please cite Minsky & Wordsworth (in review).
 
